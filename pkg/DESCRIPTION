@@ -1,7 +1,7 @@
 Package: CommEcol
 Type: Package
 Title: Community Ecology Analyses
-Version: 1.7.3
+Version: 1.7.4
 Depends: vegan, ape, picante, adespatial, betapart
 Imports: gmp
 Date: 2023-09-08
