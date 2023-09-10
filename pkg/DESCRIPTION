@@ -1,10 +1,10 @@
 Package: CommEcol
 Type: Package
 Title: Community Ecology Analyses
-Version: 1.7.6
-Depends: vegan
+Version: 1.7.7
+Depends: vegan, rncl
 Imports: ape, picante, adespatial, betapart, gmp
-Date: 2023-09-09
+Date: 2023-09-10
 Author: Adriano Sanches Melo
 Maintainer: Adriano Sanches Melo <asm.adrimelo@gmail.com>
 Description: Autosimilarity curves, standardization of spatial extent, dissimilarity indexes that overweight rare species, phylogenetic and functional (pairwise and multisample) dissimilarity indexes and nestedness for phylogenetic, functional and other diversity metrics. This should be a complement to available packages, particularly 'vegan'. 
